@@ -1,12 +1,34 @@
-## Hi there 👋
+# 📌 Coding Factory @AUEB  
+*Εκπαιδευτικό πρόγραμμα ανάπτυξης λογισμικού του Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ).*  
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 💡 Τι είναι το Coding Factory;  
+Το **Coding Factory** είναι ένα **εκπαιδευτικό πρόγραμμα** που προσφέρει σύγχρονες γνώσεις και δεξιότητες στην **Ανάπτυξη Λογισμικού**. Υλοποιείται από το **Κέντρο Δια Βίου Μάθησης** του **Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ)** και στοχεύει:  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✔ Στη δημιουργία ικανών software developers.  
+✔ Στην εκμάθηση τεχνολογιών αιχμής όπως **Java, Python, JavaScript, React, SQL**.  
+✔ Στην απόκτηση πρακτικής εμπειρίας μέσω **hands-on projects**.  
+
+🔗 **Επίσημη Ιστοσελίδα** → [codingfactory.aueb.gr](https://codingfactory.aueb.gr/)  
+
+---
+
+## 📂 Τι θα βρείτε εδώ;  
+🔹 **Εκπαιδευτικό Υλικό**: Ασκήσεις, οδηγούς και παραδείγματα κώδικα.  
+🔹 **Ανοιχτές Πηγές**: Open-source έργα από τους φοιτητές και την κοινότητα.  
+🔹 **Συνεργασία**: Ευκαιρίες για συμμετοχή σε πραγματικά projects.  
+
+---
+
+## 👨‍💻 Πώς να Συμμετάσχετε  
+1️⃣ **Fork & Clone** το αποθετήριο που σας ενδιαφέρει.  
+2️⃣ **Διαβάστε τις οδηγίες** στο `CONTRIBUTING.md`.  
+3️⃣ **Αναπτύξτε και υποβάλετε Pull Requests**.  
+4️⃣ **Συμμετέχετε στις συζητήσεις** και στη βελτίωση του κώδικα.  
+
+---
+
+## 📢 Επικοινωνία  
+📧 Email: [codingfactory@aueb.gr](mailto:codingfactory@aueb.gr)  
+🌍 Website: [codingfactory.aueb.gr](https://codingfactory.aueb.gr/)  
